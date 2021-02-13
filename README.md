@@ -1,2 +1,2 @@
 # Simple-perceptron
-A simple perceptron for classification two classes.
+A simple perceptron for to classification two classes.
